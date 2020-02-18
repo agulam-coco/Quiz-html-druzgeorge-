@@ -1,0 +1,4 @@
+function wrong(){
+
+alert("$WrongAnswer");
+}
